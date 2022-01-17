@@ -1,0 +1,127 @@
+
+Il libro Oliver Twist contiene  198751  token, e 9327  frasi
+
+Il libro A Christmas Carol contiene  35637  token, e 1945  frasi
+
+La lunghezza media delle frasi in termini di token in Oliver Twist e'  21
+La lunghezza media delle frasi in termini di token in A Christmas Carol e'  18
+La lunghezza media delle parole in termini di caratteri in Oliver Twist e'  3.75997605043
+La lunghezza media delle parole in termini di caratteri in A Christmas Carol e'  3.65830457109
+Il vocabolario in Oliver Twist conta'  12660 parole tipo
+
+Il vocabolario in Oliver Twist conta'  4694 parole tipo
+
+Il vocabolario in A Christmas Carol conta'  4694 parole tipo
+
+
+
+- INCREMENTO DEGLI HAPAX OGNI 1000 TOKEN - 
+
+Oliver Twist 		A CHRISTMAS CAROL
+ - 339                  - 324                 
+ - 641                  - 490                 
+ - 829                  - 592                 
+ - 954                  - 762                 
+ - 1074                 - 899                 
+ - 1179                 - 994                 
+ - 1294                 - 1107                
+ - 1408                 - 1203                
+ - 1510                 - 1274                
+ - 1558                 - 1365                
+ - 1621                 - 1492                
+ - 1723                 - 1570                
+ - 1778                 - 1649                
+ - 1841                 - 1705                
+ - 1909                 - 1765                
+ - 2006                 - 1831                
+ - 2065                 - 1915                
+ - 2119                 - 2048                
+ - 2164                 - 2088                
+ - 2259                 - 2140                
+ - 2326                 - 2186                
+ - 2372                 - 2248                
+ - 2425                 - 2310                
+ - 2468                 - 2346                
+ - 2514                 - 2387                
+ - 2582                 - 2438                
+ - 2656                 - 2465                
+ - 2683                 - 2546                
+ - 2733                 - 2589                
+ - 2763                 - 2629                
+ - 2768                 - 2639                
+ - 2784                 - 2646                
+ - 2841                 - 2668                
+ - 2894                 - 2705                
+ - 2923                 - 2703                
+ - 2954                 - 2713                
+Il rapporto sostantivi verbi in Oliver Twist e' pari a 3.94695737065
+Il rapporto sostantivi verbi in A Christmas Carol e' pari a 3.84925093633
+
+
+ Stampo le 10 PoS (Part-of-Speech) piu' frequenti in Oliver Twist e la relativa frequenza:
+
+NN frequenza: 24258
+IN frequenza: 19578
+DT frequenza: 17270
+, frequenza: 16297
+PRP frequenza: 11899
+VBD frequenza: 11364
+JJ frequenza: 10492
+RB frequenza: 9587
+. frequenza: 9344
+NNP frequenza: 8572
+
+
+ Stampo le 10 PoS (Part-of-Speech) piu' frequenti in A Christmas Carol e la relativa frequenza:
+
+NN frequenza: 4111
+IN frequenza: 3467
+DT frequenza: 2971
+, frequenza: 2759
+PRP frequenza: 2433
+VBD frequenza: 2259
+. frequenza: 1951
+JJ frequenza: 1898
+RB frequenza: 1648
+NNP frequenza: 1355
+
+
+- I 10 BIGRAMMI DI POS TAG CON PROBABILITA' CONDIZIONATA MASSIMA -
+
+Oliver Twist 									A CHRISTMAS CAROL
+ Bigramma --> NN  - NN                    P.Condizionata --> 0.15 %                     Bigramma --> NN  - NN                    P.Condizionata  --> 0.13 %                   
+ Bigramma --> NN  - IN                    P.Condizionata --> 0.12 %                     Bigramma --> NN  - IN                    P.Condizionata  --> 0.11 %                   
+ Bigramma --> IN  - NN                    P.Condizionata --> 0.12 %                     Bigramma --> IN  - NN                    P.Condizionata  --> 0.11 %                   
+ Bigramma --> NN  - DT                    P.Condizionata --> 0.11 %                     Bigramma --> NN  - DT                    P.Condizionata  --> 0.10 %                   
+ Bigramma --> DT  - NN                    P.Condizionata --> 0.11 %                     Bigramma --> DT  - NN                    P.Condizionata  --> 0.10 %                   
+ Bigramma --> NN  - ,                     P.Condizionata --> 0.10 %                     Bigramma --> IN  - IN                    P.Condizionata  --> 0.09 %                   
+ Bigramma --> ,   - NN                    P.Condizionata --> 0.10 %                     Bigramma --> NN  - ,                     P.Condizionata  --> 0.09 %                   
+ Bigramma --> IN  - IN                    P.Condizionata --> 0.10 %                     Bigramma --> ,   - NN                    P.Condizionata  --> 0.09 %                   
+ Bigramma --> IN  - DT                    P.Condizionata --> 0.09 %                     Bigramma --> IN  - DT                    P.Condizionata  --> 0.08 %                   
+ Bigramma --> DT  - IN                    P.Condizionata --> 0.09 %                     Bigramma --> DT  - IN                    P.Condizionata  --> 0.08 %                   
+
+
+- I 10 BIGRAMMI DI POS TAG con FORZA ASSOCIATIVA MASSIMA E LA RELATIVA FORZA ASSOCIATIVA -
+
+Oliver Twist 									A CHRISTMAS CAROL
+ 
+bigramma --> ('DT', 'NN') LMI --> 19937.1242779        				bigramma --> ('DT', 'NN') LMI --> 3334.79637382
+ 
+bigramma --> ('IN', 'DT') LMI --> 15346.9953812        				bigramma --> ('IN', 'DT') LMI --> 2499.46625807
+ 
+bigramma --> ('.', "''") LMI --> 9969.35526336        				bigramma --> ('PRP', 'VBD') LMI --> 1786.25658563
+ 
+bigramma --> ('JJ', 'NN') LMI --> 9904.15586502        				bigramma --> ('TO', 'VB') LMI --> 1781.53015109
+ 
+bigramma --> ('NNP', 'NNP') LMI --> 9863.47512555        				bigramma --> ('.', "''") LMI --> 1763.05884697
+ 
+bigramma --> ('TO', 'VB') LMI --> 9685.30193806        				bigramma --> ('NN', ',') LMI --> 1651.66915907
+ 
+bigramma --> ('NN', ',') LMI --> 9420.78978006        				bigramma --> (',', 'CC') LMI --> 1625.34241101
+ 
+bigramma --> ('DT', 'JJ') LMI --> 8756.02511602        				bigramma --> ('JJ', 'NN') LMI --> 1303.33013264
+ 
+bigramma --> ('PRP', 'VBD') LMI --> 7476.88388811        				bigramma --> ('.', '``') LMI --> 1261.73492427
+ 
+bigramma --> ('NN', 'IN') LMI --> 6899.39772369        				bigramma --> ('MD', 'VB') LMI --> 1215.25340269
+Air-di-Apple:Progetto Agnese$ 

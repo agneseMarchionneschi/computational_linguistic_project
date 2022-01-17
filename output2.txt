@@ -1,0 +1,3152 @@
+
+ I dieci nomi di persona piu' freqenti in Oliver Twist sono:
+
+ Mr. ---  con frequenza: 1035
+ Oliver ---  con frequenza: 595
+ Mr. Bumble ---  con frequenza: 328
+ Fagin ---  con frequenza: 227
+ Sikes ---  con frequenza: 204
+ Mr. Brownlow ---  con frequenza: 165
+ Rose ---  con frequenza: 138
+ Noah ---  con frequenza: 117
+ Nancy ---  con frequenza: 89
+ Monks ---  con frequenza: 87
+
+ I dieci nomi di persona piu' freqenti in A Christmas Carol sono:
+
+ Scrooge ---  con frequenza: 308
+ Bob ---  con frequenza: 48
+ Christmas ---  con frequenza: 35
+ Marley ---  con frequenza: 23
+ Tiny ---  con frequenza: 21
+ Tiny Tim ---  con frequenza: 21
+ Joe ---  con frequenza: 18
+ Jacob ---  con frequenza: 14
+ Peter ---  con frequenza: 13
+ Mr. ---  con frequenza: 12
+Per ogni nome piu' frequente in Oliver Twist, la frase piu' lunga e quella piu' corta alla quale e' associato il nome:
+
+
+ La frase piu' lunga con nome  Mr. e': A
+weakness on his part, which affords the narrative an opportunity of
+relieving the reader from suspense, in behalf of the two young pupils
+of the Merry Old Gentleman; and of recording--
+
+That when the Dodger, and his accomplished friend Master Bates, joined
+in the hue-and-cry which was raised at Oliver's heels, in consequence
+of their executing an illegal conveyance of Mr. Brownlow's personal
+property, as has been already described, they were actuated by a very
+laudable and becoming regard for themselves; and forasmuch as the
+freedom of the subject and the liberty of the individual are among the
+first and proudest boasts of a true-hearted Englishman, so, I need
+hardly beg the reader to observe, that this action should tend to exalt
+them in the opinion of all public and patriotic men, in almost as great
+a degree as this strong proof of their anxiety for their own
+preservation and safety goes to corroborate and confirm the little code
+of laws which certain profound and sound-judging philosophers have laid
+down as the main-springs of all Nature's deeds and actions:  the said
+philosophers very wisely reducing the good lady's proceedings to
+matters of maxim and theory:  and, by a very neat and pretty compliment
+to her exalted wisdom and understanding, putting entirely out of sight
+any considerations of heart, or generous impulse and feeling. 
+
+
+ La frase piu' corta con nome  Mr. e': 'Oh, Mr. 
+
+
+ La frase piu' lunga con nome  Oliver e': A
+weakness on his part, which affords the narrative an opportunity of
+relieving the reader from suspense, in behalf of the two young pupils
+of the Merry Old Gentleman; and of recording--
+
+That when the Dodger, and his accomplished friend Master Bates, joined
+in the hue-and-cry which was raised at Oliver's heels, in consequence
+of their executing an illegal conveyance of Mr. Brownlow's personal
+property, as has been already described, they were actuated by a very
+laudable and becoming regard for themselves; and forasmuch as the
+freedom of the subject and the liberty of the individual are among the
+first and proudest boasts of a true-hearted Englishman, so, I need
+hardly beg the reader to observe, that this action should tend to exalt
+them in the opinion of all public and patriotic men, in almost as great
+a degree as this strong proof of their anxiety for their own
+preservation and safety goes to corroborate and confirm the little code
+of laws which certain profound and sound-judging philosophers have laid
+down as the main-springs of all Nature's deeds and actions:  the said
+philosophers very wisely reducing the good lady's proceedings to
+matters of maxim and theory:  and, by a very neat and pretty compliment
+to her exalted wisdom and understanding, putting entirely out of sight
+any considerations of heart, or generous impulse and feeling. 
+
+
+ La frase piu' corta con nome  Oliver e': Poor Oliver! 
+
+
+ La frase piu' lunga con nome  Mr. Bumble e': It was a round table; and as Mrs. Corney and Mr. Bumble had been
+sitting opposite each other, with no great space between them, and
+fronting the fire, it will be seen that Mr. Bumble, in receding from
+the fire, and still keeping at the table, increased the distance
+between himself and Mrs. Corney; which proceeding, some prudent readers
+will doubtless be disposed to admire, and to consider an act of great
+heroism on Mr. Bumble's part:  he being in some sort tempted by time,
+place, and opportunity, to give utterance to certain soft nothings,
+which however well they may become the lips of the light and
+thoughtless, do seem immeasurably beneath the dignity of judges of the
+land, members of parliament, ministers of state, lord mayors, and other
+great public functionaries, but more particularly beneath the
+stateliness and gravity of a beadle:  who (as is well known) should be
+the sternest and most inflexible among them all. 
+
+
+ La frase piu' corta con nome  Mr. Bumble e': said Mr. Bumble. 
+
+
+ La frase piu' lunga con nome  Fagin e': That she had all the abstracted and
+nervous manner of one who is on the eve of some bold and hazardous
+step, which it has required no common struggle to resolve upon, would
+have been obvious to the lynx-eyed Fagin, who would most probably have
+taken the alarm at once; but Mr. Sikes lacking the niceties of
+discrimination, and being troubled with no more subtle misgivings than
+those which resolve themselves into a dogged roughness of behaviour
+towards everybody; and being, furthermore, in an unusually amiable
+condition, as has been already observed; saw nothing unusual in her
+demeanor, and indeed, troubled himself so little about her, that, had
+her agitation been far more perceptible than it was, it would have been
+very unlikely to have awakened his suspicions. 
+
+
+ La frase piu' corta con nome  Fagin e': So's Fagin. 
+
+
+ La frase piu' lunga con nome  Sikes e': That she had all the abstracted and
+nervous manner of one who is on the eve of some bold and hazardous
+step, which it has required no common struggle to resolve upon, would
+have been obvious to the lynx-eyed Fagin, who would most probably have
+taken the alarm at once; but Mr. Sikes lacking the niceties of
+discrimination, and being troubled with no more subtle misgivings than
+those which resolve themselves into a dogged roughness of behaviour
+towards everybody; and being, furthermore, in an unusually amiable
+condition, as has been already observed; saw nothing unusual in her
+demeanor, and indeed, troubled himself so little about her, that, had
+her agitation been far more perceptible than it was, it would have been
+very unlikely to have awakened his suspicions. 
+
+
+ La frase piu' corta con nome  Sikes e': said Sikes. 
+
+
+ La frase piu' lunga con nome  Mr. Brownlow e': A
+weakness on his part, which affords the narrative an opportunity of
+relieving the reader from suspense, in behalf of the two young pupils
+of the Merry Old Gentleman; and of recording--
+
+That when the Dodger, and his accomplished friend Master Bates, joined
+in the hue-and-cry which was raised at Oliver's heels, in consequence
+of their executing an illegal conveyance of Mr. Brownlow's personal
+property, as has been already described, they were actuated by a very
+laudable and becoming regard for themselves; and forasmuch as the
+freedom of the subject and the liberty of the individual are among the
+first and proudest boasts of a true-hearted Englishman, so, I need
+hardly beg the reader to observe, that this action should tend to exalt
+them in the opinion of all public and patriotic men, in almost as great
+a degree as this strong proof of their anxiety for their own
+preservation and safety goes to corroborate and confirm the little code
+of laws which certain profound and sound-judging philosophers have laid
+down as the main-springs of all Nature's deeds and actions:  the said
+philosophers very wisely reducing the good lady's proceedings to
+matters of maxim and theory:  and, by a very neat and pretty compliment
+to her exalted wisdom and understanding, putting entirely out of sight
+any considerations of heart, or generous impulse and feeling. 
+
+
+ La frase piu' corta con nome  Mr. Brownlow e': said Mr. Brownlow. 
+
+
+ La frase piu' lunga con nome  Rose e': There was such peace and beauty in the scene; so much of brightness and
+mirth in the sunny landscape; such blithesome music in the songs of the
+summer birds; such freedom in the rapid flight of the rook, careering
+overhead; so much of life and joyousness in all; that, when the boy
+raised his aching eyes, and looked about, the thought instinctively
+occurred to him, that this was not a time for death; that Rose could
+surely never die when humbler things were all so glad and gay; that
+graves were for cold and cheerless winter:  not for sunlight and
+fragrance. 
+
+
+ La frase piu' corta con nome  Rose e': Miss Rose! 
+
+
+ La frase piu' lunga con nome  Noah e': That Oliver Twist was moved to resignation by the example of these good
+people, I cannot, although I am his biographer, undertake to affirm
+with any degree of confidence; but I can most distinctly say, that for
+many months he continued meekly to submit to the domination and
+ill-treatment of Noah Claypole: who used him far worse than before, now
+that his jealousy was roused by seeing the new boy promoted to the
+black stick and hatband, while he, the old one, remained stationary in
+the muffin-cap and leathers. 
+
+
+ La frase piu' corta con nome  Noah e': said Noah. 
+
+
+ La frase piu' lunga con nome  Nancy e': In obedience to this hint, the boys, nodding to Nancy, took up their
+hats, and left the room; the Dodger and his vivacious friend indulging,
+as they went, in many witticisms at the expense of Mr. Chitling; in
+whose conduct, it is but justice to say, there was nothing very
+conspicuous or peculiar:  inasmuch as there are a great number of
+spirited young bloods upon town, who pay a much higher price than Mr.
+Chitling for being seen in good society:  and a great number of fine
+gentlemen (composing the good society aforesaid) who established their
+reputation upon very much the same footing as flash Toby Crackit. 
+
+
+ La frase piu' corta con nome  Nancy e': So's Nancy. 
+
+
+ La frase piu' lunga con nome  Monks e': They laughed, and talked of his success in
+doing this; and Monks, talking on about the boy, and getting very wild,
+said that though he had got the young devil's money safely now, he'd
+rather have had it the other way; for, what a game it would have been
+to have brought down the boast of the father's will, by driving him
+through every jail in town, and then hauling him up for some capital
+felony which Fagin could easily manage, after having made a good profit
+of him besides.' 
+
+
+ La frase piu' corta con nome  Monks e': said Monks. 
+
+Per ogni nome piu' frequente in A Christmas Carol, la frase piu' lunga e quella piu' corta alla quale e' associato il nome:
+
+
+ La frase piu' lunga con nome  Scrooge e': There might have been twenty people there,
+young and old, but they all played, and so did Scrooge; for
+wholly forgetting in the interest he had in what was going on, that
+his voice made no sound in their ears, he sometimes came out with
+his guess quite loud, and very often guessed quite right, too;
+for the sharpest needle, best Whitechapel, warranted not to cut
+in the eye, was not sharper than Scrooge; blunt as he took it in
+his head to be. 
+
+
+ La frase piu' corta con nome  Scrooge e': said Scrooge. 
+
+
+ La frase piu' lunga con nome  Bob e': Mrs. Cratchit made
+the gravy (ready beforehand in a little saucepan) hissing hot;
+Master Peter mashed the potatoes with incredible vigour;
+Miss Belinda sweetened up the apple-sauce; Martha dusted
+the hot plates; Bob took Tiny Tim beside him in a tiny
+corner at the table; the two young Cratchits set chairs for
+everybody, not forgetting themselves, and mounting guard
+upon their posts, crammed spoons into their mouths, lest
+they should shriek for goose before their turn came to be
+helped. 
+
+
+ La frase piu' corta con nome  Bob e': No Bob. 
+
+
+ La frase piu' lunga con nome  Christmas e': Nor was it that the figs
+were moist and pulpy, or that the French plums blushed in
+modest tartness from their highly-decorated boxes, or that
+everything was good to eat and in its Christmas dress; but
+the customers were all so hurried and so eager in the hopeful
+promise of the day, that they tumbled up against each other
+at the door, crashing their wicker baskets wildly, and left
+their purchases upon the counter, and came running back to
+fetch them, and committed hundreds of the like mistakes, in
+the best humour possible; while the Grocer and his people
+were so frank and fresh that the polished hearts with which
+they fastened their aprons behind might have been their own,
+worn outside for general inspection, and for Christmas daws
+to peck at if they chose. 
+
+
+ La frase piu' corta con nome  Christmas e': Merry Christmas! 
+
+
+ La frase piu' lunga con nome  Marley e': There were Cains and Abels, Pharaoh's daughters;
+Queens of Sheba, Angelic messengers descending
+through the air on clouds like feather-beds, Abrahams,
+Belshazzars, Apostles putting off to sea in butter-boats,
+hundreds of figures to attract his thoughts;
+and yet that face of Marley, seven years dead, came
+like the ancient Prophet's rod, and swallowed up the
+whole. 
+
+
+ La frase piu' corta con nome  Marley e': Oh Jacob Marley! 
+
+
+ La frase piu' lunga con nome  Tiny e': His active little crutch was heard upon the floor, and back
+came Tiny Tim before another word was spoken, escorted by
+his brother and sister to his stool before the fire; and while
+Bob, turning up his cuffs--as if, poor fellow, they were
+capable of being made more shabby--compounded some hot
+mixture in a jug with gin and lemons, and stirred it round
+and round and put it on the hob to simmer; Master Peter,
+and the two ubiquitous young Cratchits went to fetch the
+goose, with which they soon returned in high procession. 
+
+
+ La frase piu' corta con nome  Tiny e': Ah, poor Tiny Tim! 
+
+
+ La frase piu' lunga con nome  Tiny Tim e': His active little crutch was heard upon the floor, and back
+came Tiny Tim before another word was spoken, escorted by
+his brother and sister to his stool before the fire; and while
+Bob, turning up his cuffs--as if, poor fellow, they were
+capable of being made more shabby--compounded some hot
+mixture in a jug with gin and lemons, and stirred it round
+and round and put it on the hob to simmer; Master Peter,
+and the two ubiquitous young Cratchits went to fetch the
+goose, with which they soon returned in high procession. 
+
+
+ La frase piu' corta con nome  Tiny Tim e': Ah, poor Tiny Tim! 
+
+
+ La frase piu' lunga con nome  Joe e': They were severally examined and
+appraised by old Joe, who chalked the sums he was disposed
+to give for each, upon the wall, and added them up into a
+total when he found there was nothing more to come. 
+
+
+ La frase piu' corta con nome  Joe e': said Joe. 
+
+
+ La frase piu' lunga con nome  Jacob e': When this strain of music sounded, all the
+things that Ghost had shown him, came upon his mind; he
+softened more and more; and thought that if he could have
+listened to it often, years ago, he might have cultivated the
+kindnesses of life for his own happiness with his own hands,
+without resorting to the sexton's spade that buried Jacob
+Marley. 
+
+
+ La frase piu' corta con nome  Jacob e': Oh Jacob Marley! 
+
+
+ La frase piu' lunga con nome  Peter e': Then up rose Mrs. Cratchit, Cratchit's wife, dressed out
+but poorly in a twice-turned gown, but brave in ribbons,
+which are cheap and make a goodly show for sixpence; and
+she laid the cloth, assisted by Belinda Cratchit, second of
+her daughters, also brave in ribbons; while Master Peter
+Cratchit plunged a fork into the saucepan of potatoes, and
+getting the corners of his monstrous shirt collar (Bob's private
+property, conferred upon his son and heir in honour of the
+day) into his mouth, rejoiced to find himself so gallantly
+attired, and yearned to show his linen in the fashionable Parks. 
+
+
+ La frase piu' corta con nome  Peter e': said Peter. 
+
+
+ La frase piu' lunga con nome  Mr. e': Bob told them of the extraordinary kindness
+of Mr. Scrooge's nephew, whom he had scarcely seen but
+once, and who, meeting him in the street that day, and seeing
+that he looked a little--"just a little down you know," said
+Bob, inquired what had happened to distress him. 
+
+
+ La frase piu' corta con nome  Mr. e': "My dear Mr. Scrooge, are you serious?" 
+
+
+ La frase piu' lunga con nome  Mr. e': A
+weakness on his part, which affords the narrative an opportunity of
+relieving the reader from suspense, in behalf of the two young pupils
+of the Merry Old Gentleman; and of recording--
+
+That when the Dodger, and his accomplished friend Master Bates, joined
+in the hue-and-cry which was raised at Oliver's heels, in consequence
+of their executing an illegal conveyance of Mr. Brownlow's personal
+property, as has been already described, they were actuated by a very
+laudable and becoming regard for themselves; and forasmuch as the
+freedom of the subject and the liberty of the individual are among the
+first and proudest boasts of a true-hearted Englishman, so, I need
+hardly beg the reader to observe, that this action should tend to exalt
+them in the opinion of all public and patriotic men, in almost as great
+a degree as this strong proof of their anxiety for their own
+preservation and safety goes to corroborate and confirm the little code
+of laws which certain profound and sound-judging philosophers have laid
+down as the main-springs of all Nature's deeds and actions:  the said
+philosophers very wisely reducing the good lady's proceedings to
+matters of maxim and theory:  and, by a very neat and pretty compliment
+to her exalted wisdom and understanding, putting entirely out of sight
+any considerations of heart, or generous impulse and feeling. 
+
+
+ La frase piu' corta con nome  Mr. e': 'Oh, Mr. 
+
+
+ La frase piu' lunga con nome  Oliver e': A
+weakness on his part, which affords the narrative an opportunity of
+relieving the reader from suspense, in behalf of the two young pupils
+of the Merry Old Gentleman; and of recording--
+
+That when the Dodger, and his accomplished friend Master Bates, joined
+in the hue-and-cry which was raised at Oliver's heels, in consequence
+of their executing an illegal conveyance of Mr. Brownlow's personal
+property, as has been already described, they were actuated by a very
+laudable and becoming regard for themselves; and forasmuch as the
+freedom of the subject and the liberty of the individual are among the
+first and proudest boasts of a true-hearted Englishman, so, I need
+hardly beg the reader to observe, that this action should tend to exalt
+them in the opinion of all public and patriotic men, in almost as great
+a degree as this strong proof of their anxiety for their own
+preservation and safety goes to corroborate and confirm the little code
+of laws which certain profound and sound-judging philosophers have laid
+down as the main-springs of all Nature's deeds and actions:  the said
+philosophers very wisely reducing the good lady's proceedings to
+matters of maxim and theory:  and, by a very neat and pretty compliment
+to her exalted wisdom and understanding, putting entirely out of sight
+any considerations of heart, or generous impulse and feeling. 
+
+
+ La frase piu' corta con nome  Oliver e': Poor Oliver! 
+
+
+ La frase piu' lunga con nome  Mr. Bumble e': It was a round table; and as Mrs. Corney and Mr. Bumble had been
+sitting opposite each other, with no great space between them, and
+fronting the fire, it will be seen that Mr. Bumble, in receding from
+the fire, and still keeping at the table, increased the distance
+between himself and Mrs. Corney; which proceeding, some prudent readers
+will doubtless be disposed to admire, and to consider an act of great
+heroism on Mr. Bumble's part:  he being in some sort tempted by time,
+place, and opportunity, to give utterance to certain soft nothings,
+which however well they may become the lips of the light and
+thoughtless, do seem immeasurably beneath the dignity of judges of the
+land, members of parliament, ministers of state, lord mayors, and other
+great public functionaries, but more particularly beneath the
+stateliness and gravity of a beadle:  who (as is well known) should be
+the sternest and most inflexible among them all. 
+
+
+ La frase piu' corta con nome  Mr. Bumble e': said Mr. Bumble. 
+
+
+ La frase piu' lunga con nome  Fagin e': That she had all the abstracted and
+nervous manner of one who is on the eve of some bold and hazardous
+step, which it has required no common struggle to resolve upon, would
+have been obvious to the lynx-eyed Fagin, who would most probably have
+taken the alarm at once; but Mr. Sikes lacking the niceties of
+discrimination, and being troubled with no more subtle misgivings than
+those which resolve themselves into a dogged roughness of behaviour
+towards everybody; and being, furthermore, in an unusually amiable
+condition, as has been already observed; saw nothing unusual in her
+demeanor, and indeed, troubled himself so little about her, that, had
+her agitation been far more perceptible than it was, it would have been
+very unlikely to have awakened his suspicions. 
+
+
+ La frase piu' corta con nome  Fagin e': So's Fagin. 
+
+
+ La frase piu' lunga con nome  Sikes e': That she had all the abstracted and
+nervous manner of one who is on the eve of some bold and hazardous
+step, which it has required no common struggle to resolve upon, would
+have been obvious to the lynx-eyed Fagin, who would most probably have
+taken the alarm at once; but Mr. Sikes lacking the niceties of
+discrimination, and being troubled with no more subtle misgivings than
+those which resolve themselves into a dogged roughness of behaviour
+towards everybody; and being, furthermore, in an unusually amiable
+condition, as has been already observed; saw nothing unusual in her
+demeanor, and indeed, troubled himself so little about her, that, had
+her agitation been far more perceptible than it was, it would have been
+very unlikely to have awakened his suspicions. 
+
+
+ La frase piu' corta con nome  Sikes e': said Sikes. 
+
+
+ La frase piu' lunga con nome  Mr. Brownlow e': A
+weakness on his part, which affords the narrative an opportunity of
+relieving the reader from suspense, in behalf of the two young pupils
+of the Merry Old Gentleman; and of recording--
+
+That when the Dodger, and his accomplished friend Master Bates, joined
+in the hue-and-cry which was raised at Oliver's heels, in consequence
+of their executing an illegal conveyance of Mr. Brownlow's personal
+property, as has been already described, they were actuated by a very
+laudable and becoming regard for themselves; and forasmuch as the
+freedom of the subject and the liberty of the individual are among the
+first and proudest boasts of a true-hearted Englishman, so, I need
+hardly beg the reader to observe, that this action should tend to exalt
+them in the opinion of all public and patriotic men, in almost as great
+a degree as this strong proof of their anxiety for their own
+preservation and safety goes to corroborate and confirm the little code
+of laws which certain profound and sound-judging philosophers have laid
+down as the main-springs of all Nature's deeds and actions:  the said
+philosophers very wisely reducing the good lady's proceedings to
+matters of maxim and theory:  and, by a very neat and pretty compliment
+to her exalted wisdom and understanding, putting entirely out of sight
+any considerations of heart, or generous impulse and feeling. 
+
+
+ La frase piu' corta con nome  Mr. Brownlow e': said Mr. Brownlow. 
+
+
+ La frase piu' lunga con nome  Rose e': There was such peace and beauty in the scene; so much of brightness and
+mirth in the sunny landscape; such blithesome music in the songs of the
+summer birds; such freedom in the rapid flight of the rook, careering
+overhead; so much of life and joyousness in all; that, when the boy
+raised his aching eyes, and looked about, the thought instinctively
+occurred to him, that this was not a time for death; that Rose could
+surely never die when humbler things were all so glad and gay; that
+graves were for cold and cheerless winter:  not for sunlight and
+fragrance. 
+
+
+ La frase piu' corta con nome  Rose e': Miss Rose! 
+
+
+ La frase piu' lunga con nome  Noah e': That Oliver Twist was moved to resignation by the example of these good
+people, I cannot, although I am his biographer, undertake to affirm
+with any degree of confidence; but I can most distinctly say, that for
+many months he continued meekly to submit to the domination and
+ill-treatment of Noah Claypole: who used him far worse than before, now
+that his jealousy was roused by seeing the new boy promoted to the
+black stick and hatband, while he, the old one, remained stationary in
+the muffin-cap and leathers. 
+
+
+ La frase piu' corta con nome  Noah e': said Noah. 
+
+
+ La frase piu' lunga con nome  Nancy e': In obedience to this hint, the boys, nodding to Nancy, took up their
+hats, and left the room; the Dodger and his vivacious friend indulging,
+as they went, in many witticisms at the expense of Mr. Chitling; in
+whose conduct, it is but justice to say, there was nothing very
+conspicuous or peculiar:  inasmuch as there are a great number of
+spirited young bloods upon town, who pay a much higher price than Mr.
+Chitling for being seen in good society:  and a great number of fine
+gentlemen (composing the good society aforesaid) who established their
+reputation upon very much the same footing as flash Toby Crackit. 
+
+
+ La frase piu' corta con nome  Nancy e': So's Nancy. 
+
+
+ La frase piu' lunga con nome  Monks e': They laughed, and talked of his success in
+doing this; and Monks, talking on about the boy, and getting very wild,
+said that though he had got the young devil's money safely now, he'd
+rather have had it the other way; for, what a game it would have been
+to have brought down the boast of the father's will, by driving him
+through every jail in town, and then hauling him up for some capital
+felony which Fagin could easily manage, after having made a good profit
+of him besides.' 
+
+
+ La frase piu' corta con nome  Monks e': said Monks. 
+
+
+ La frase piu' lunga con nome  Scrooge e': There might have been twenty people there,
+young and old, but they all played, and so did Scrooge; for
+wholly forgetting in the interest he had in what was going on, that
+his voice made no sound in their ears, he sometimes came out with
+his guess quite loud, and very often guessed quite right, too;
+for the sharpest needle, best Whitechapel, warranted not to cut
+in the eye, was not sharper than Scrooge; blunt as he took it in
+his head to be. 
+
+
+ La frase piu' corta con nome  Scrooge e': said Scrooge. 
+
+
+ La frase piu' lunga con nome  Bob e': Mrs. Cratchit made
+the gravy (ready beforehand in a little saucepan) hissing hot;
+Master Peter mashed the potatoes with incredible vigour;
+Miss Belinda sweetened up the apple-sauce; Martha dusted
+the hot plates; Bob took Tiny Tim beside him in a tiny
+corner at the table; the two young Cratchits set chairs for
+everybody, not forgetting themselves, and mounting guard
+upon their posts, crammed spoons into their mouths, lest
+they should shriek for goose before their turn came to be
+helped. 
+
+
+ La frase piu' corta con nome  Bob e': No Bob. 
+
+
+ La frase piu' lunga con nome  Christmas e': Nor was it that the figs
+were moist and pulpy, or that the French plums blushed in
+modest tartness from their highly-decorated boxes, or that
+everything was good to eat and in its Christmas dress; but
+the customers were all so hurried and so eager in the hopeful
+promise of the day, that they tumbled up against each other
+at the door, crashing their wicker baskets wildly, and left
+their purchases upon the counter, and came running back to
+fetch them, and committed hundreds of the like mistakes, in
+the best humour possible; while the Grocer and his people
+were so frank and fresh that the polished hearts with which
+they fastened their aprons behind might have been their own,
+worn outside for general inspection, and for Christmas daws
+to peck at if they chose. 
+
+
+ La frase piu' corta con nome  Christmas e': Merry Christmas! 
+
+
+ La frase piu' lunga con nome  Marley e': There were Cains and Abels, Pharaoh's daughters;
+Queens of Sheba, Angelic messengers descending
+through the air on clouds like feather-beds, Abrahams,
+Belshazzars, Apostles putting off to sea in butter-boats,
+hundreds of figures to attract his thoughts;
+and yet that face of Marley, seven years dead, came
+like the ancient Prophet's rod, and swallowed up the
+whole. 
+
+
+ La frase piu' corta con nome  Marley e': Oh Jacob Marley! 
+
+
+ La frase piu' lunga con nome  Tiny e': His active little crutch was heard upon the floor, and back
+came Tiny Tim before another word was spoken, escorted by
+his brother and sister to his stool before the fire; and while
+Bob, turning up his cuffs--as if, poor fellow, they were
+capable of being made more shabby--compounded some hot
+mixture in a jug with gin and lemons, and stirred it round
+and round and put it on the hob to simmer; Master Peter,
+and the two ubiquitous young Cratchits went to fetch the
+goose, with which they soon returned in high procession. 
+
+
+ La frase piu' corta con nome  Tiny e': Ah, poor Tiny Tim! 
+
+
+ La frase piu' lunga con nome  Tiny Tim e': His active little crutch was heard upon the floor, and back
+came Tiny Tim before another word was spoken, escorted by
+his brother and sister to his stool before the fire; and while
+Bob, turning up his cuffs--as if, poor fellow, they were
+capable of being made more shabby--compounded some hot
+mixture in a jug with gin and lemons, and stirred it round
+and round and put it on the hob to simmer; Master Peter,
+and the two ubiquitous young Cratchits went to fetch the
+goose, with which they soon returned in high procession. 
+
+
+ La frase piu' corta con nome  Tiny Tim e': Ah, poor Tiny Tim! 
+
+
+ La frase piu' lunga con nome  Joe e': They were severally examined and
+appraised by old Joe, who chalked the sums he was disposed
+to give for each, upon the wall, and added them up into a
+total when he found there was nothing more to come. 
+
+
+ La frase piu' corta con nome  Joe e': said Joe. 
+
+
+ La frase piu' lunga con nome  Jacob e': When this strain of music sounded, all the
+things that Ghost had shown him, came upon his mind; he
+softened more and more; and thought that if he could have
+listened to it often, years ago, he might have cultivated the
+kindnesses of life for his own happiness with his own hands,
+without resorting to the sexton's spade that buried Jacob
+Marley. 
+
+
+ La frase piu' corta con nome  Jacob e': Oh Jacob Marley! 
+
+
+ La frase piu' lunga con nome  Peter e': Then up rose Mrs. Cratchit, Cratchit's wife, dressed out
+but poorly in a twice-turned gown, but brave in ribbons,
+which are cheap and make a goodly show for sixpence; and
+she laid the cloth, assisted by Belinda Cratchit, second of
+her daughters, also brave in ribbons; while Master Peter
+Cratchit plunged a fork into the saucepan of potatoes, and
+getting the corners of his monstrous shirt collar (Bob's private
+property, conferred upon his son and heir in honour of the
+day) into his mouth, rejoiced to find himself so gallantly
+attired, and yearned to show his linen in the fashionable Parks. 
+
+
+ La frase piu' corta con nome  Peter e': said Peter. 
+
+
+ La frase piu' lunga con nome  Mr. e': Bob told them of the extraordinary kindness
+of Mr. Scrooge's nephew, whom he had scarcely seen but
+once, and who, meeting him in the street that day, and seeing
+that he looked a little--"just a little down you know," said
+Bob, inquired what had happened to distress him. 
+
+
+ La frase piu' corta con nome  Mr. e': "My dear Mr. Scrooge, are you serious?" 
+
+
+
+ Oliver Twist 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Mr. e':
+
+ Oliver --- frequenza: 17 
+
+
+ Brittles --- frequenza: 9 
+
+
+ London --- frequenza: 6 
+
+
+ Dodger --- frequenza: 4 
+
+
+ Fagin --- frequenza: 3 
+
+
+ Chertsey --- frequenza: 3 
+
+
+ Monks --- frequenza: 3 
+
+
+ Rose --- frequenza: 2 
+
+
+ Cripples --- frequenza: 1 
+
+
+ Susan --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Mr. e':
+
+ Mr. --- frequenza: 863 
+
+
+ Mr. Bumble --- frequenza: 263 
+
+
+ Mr. Brownlow --- frequenza: 151 
+
+
+ Oliver --- frequenza: 78 
+
+
+ Mr. Giles --- frequenza: 67 
+
+
+ Mr. Sikes --- frequenza: 63 
+
+
+ Mr. Grimwig --- frequenza: 56 
+
+
+ Mr. Losberne --- frequenza: 36 
+
+
+ Mr. Claypole --- frequenza: 29 
+
+
+ Mr. Sowerberry --- frequenza: 24 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Mr. e':
+
+time --- frequenza: 55 
+
+
+Mrs. --- frequenza: 42 
+
+
+gentleman --- frequenza: 38 
+
+
+head --- frequenza: 35 
+
+
+man --- frequenza: 32 
+
+
+friend --- frequenza: 30 
+
+
+hand --- frequenza: 27 
+
+
+room --- frequenza: 25 
+
+
+eyes --- frequenza: 25 
+
+
+sir --- frequenza: 25 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Mr. e':
+
+was --- frequenza: 274 
+
+
+said --- frequenza: 252 
+
+
+had --- frequenza: 196 
+
+
+be --- frequenza: 94 
+
+
+been --- frequenza: 78 
+
+
+is --- frequenza: 76 
+
+
+replied --- frequenza: 75 
+
+
+have --- frequenza: 73 
+
+
+were --- frequenza: 63 
+
+
+being --- frequenza: 41 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Oliver e':
+
+ Oliver --- frequenza: 93 
+
+
+ Dodger --- frequenza: 7 
+
+
+ Pentonville --- frequenza: 3 
+
+
+ Bumble --- frequenza: 2 
+
+
+ Rose --- frequenza: 2 
+
+
+ St. --- frequenza: 2 
+
+
+ Christian --- frequenza: 1 
+
+
+ Sikes --- frequenza: 1 
+
+
+ French --- frequenza: 1 
+
+
+ Long --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Oliver e':
+
+ Oliver --- frequenza: 484 
+
+
+ Mr. --- frequenza: 124 
+
+
+ Oliver Twist --- frequenza: 39 
+
+
+ Mr. Brownlow --- frequenza: 31 
+
+
+ Mr. Bumble --- frequenza: 26 
+
+
+ Sikes --- frequenza: 18 
+
+
+ Mr. Losberne --- frequenza: 14 
+
+
+ Fagin --- frequenza: 12 
+
+
+ Noah --- frequenza: 11 
+
+
+ Mr. Grimwig --- frequenza: 10 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Oliver e':
+
+gentleman --- frequenza: 47 
+
+
+time --- frequenza: 42 
+
+
+way --- frequenza: 32 
+
+
+head --- frequenza: 31 
+
+
+sir --- frequenza: 30 
+
+
+hand --- frequenza: 29 
+
+
+man --- frequenza: 27 
+
+
+boy --- frequenza: 26 
+
+
+eyes --- frequenza: 25 
+
+
+Oliver --- frequenza: 24 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Oliver e':
+
+was --- frequenza: 214 
+
+
+had --- frequenza: 189 
+
+
+said --- frequenza: 103 
+
+
+be --- frequenza: 91 
+
+
+been --- frequenza: 76 
+
+
+were --- frequenza: 67 
+
+
+have --- frequenza: 64 
+
+
+replied --- frequenza: 60 
+
+
+is --- frequenza: 46 
+
+
+being --- frequenza: 30 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Mr. Bumble e':
+
+ Oliver --- frequenza: 5 
+
+
+ Roman --- frequenza: 1 
+
+
+ Susan --- frequenza: 1 
+
+
+ London --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Mr. Bumble e':
+
+ Mr. --- frequenza: 251 
+
+
+ Mr. Bumble --- frequenza: 241 
+
+
+ Oliver --- frequenza: 14 
+
+
+ Corney --- frequenza: 6 
+
+
+ Mr. Grimwig --- frequenza: 3 
+
+
+ Sowerberry --- frequenza: 2 
+
+
+ Mr. Sowerberry --- frequenza: 2 
+
+
+ Lord --- frequenza: 1 
+
+
+ Which --- frequenza: 1 
+
+
+ Madness --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Mr. Bumble e':
+
+Mrs. --- frequenza: 19 
+
+
+ma'am --- frequenza: 16 
+
+
+eyes --- frequenza: 15 
+
+
+time --- frequenza: 15 
+
+
+matron --- frequenza: 12 
+
+
+gentleman --- frequenza: 11 
+
+
+sir --- frequenza: 11 
+
+
+beadle --- frequenza: 10 
+
+
+lady --- frequenza: 10 
+
+
+head --- frequenza: 10 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Mr. Bumble e':
+
+said --- frequenza: 81 
+
+
+was --- frequenza: 77 
+
+
+had --- frequenza: 44 
+
+
+be --- frequenza: 26 
+
+
+replied --- frequenza: 20 
+
+
+were --- frequenza: 20 
+
+
+have --- frequenza: 17 
+
+
+is --- frequenza: 17 
+
+
+been --- frequenza: 16 
+
+
+'s --- frequenza: 15 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Fagin e':
+
+ Fagin --- frequenza: 11 
+
+
+ Sikes --- frequenza: 3 
+
+
+ Oliver --- frequenza: 2 
+
+
+ Dodger --- frequenza: 2 
+
+
+ London --- frequenza: 2 
+
+
+ Cripples --- frequenza: 1 
+
+
+ Noah --- frequenza: 1 
+
+
+ Pentonville --- frequenza: 1 
+
+
+ Chitling --- frequenza: 1 
+
+
+ Charley --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Fagin e':
+
+ Fagin --- frequenza: 200 
+
+
+ Mr. --- frequenza: 49 
+
+
+ Mr. Fagin --- frequenza: 23 
+
+
+ Oliver --- frequenza: 12 
+
+
+ Sikes --- frequenza: 11 
+
+
+ Nancy --- frequenza: 11 
+
+
+ Charley --- frequenza: 11 
+
+
+ Master --- frequenza: 8 
+
+
+ Master Bates --- frequenza: 7 
+
+
+ Mr. Bolter --- frequenza: 5 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Fagin e':
+
+time --- frequenza: 18 
+
+
+Fagin --- frequenza: 15 
+
+
+girl --- frequenza: 14 
+
+
+hand --- frequenza: 10 
+
+
+way --- frequenza: 10 
+
+
+Jew --- frequenza: 9 
+
+
+house --- frequenza: 9 
+
+
+man --- frequenza: 9 
+
+
+eyes --- frequenza: 9 
+
+
+friend --- frequenza: 9 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Fagin e':
+
+said --- frequenza: 64 
+
+
+had --- frequenza: 56 
+
+
+was --- frequenza: 56 
+
+
+be --- frequenza: 35 
+
+
+replied --- frequenza: 27 
+
+
+have --- frequenza: 25 
+
+
+been --- frequenza: 18 
+
+
+'s --- frequenza: 15 
+
+
+is --- frequenza: 13 
+
+
+were --- frequenza: 12 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Sikes e':
+
+ Sikes --- frequenza: 19 
+
+
+ Oliver --- frequenza: 4 
+
+
+ Fagin --- frequenza: 2 
+
+
+ Dodger --- frequenza: 2 
+
+
+ Cripples --- frequenza: 1 
+
+
+ Little --- frequenza: 1 
+
+
+ Chertsey --- frequenza: 1 
+
+
+ Ned --- frequenza: 1 
+
+
+ Long --- frequenza: 1 
+
+
+ Shepperton --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Sikes e':
+
+ Sikes --- frequenza: 181 
+
+
+ Mr. --- frequenza: 84 
+
+
+ Mr. Sikes --- frequenza: 73 
+
+
+ Oliver --- frequenza: 22 
+
+
+ Fagin --- frequenza: 11 
+
+
+ Nancy --- frequenza: 11 
+
+
+ Bill --- frequenza: 9 
+
+
+ Bill Sikes --- frequenza: 7 
+
+
+ Toby --- frequenza: 6 
+
+
+ Mr. William --- frequenza: 4 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Sikes e':
+
+Jew --- frequenza: 20 
+
+
+Sikes --- frequenza: 17 
+
+
+hand --- frequenza: 16 
+
+
+dog --- frequenza: 15 
+
+
+time --- frequenza: 15 
+
+
+boy --- frequenza: 13 
+
+
+girl --- frequenza: 12 
+
+
+head --- frequenza: 12 
+
+
+words --- frequenza: 10 
+
+
+table --- frequenza: 10 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Sikes e':
+
+said --- frequenza: 85 
+
+
+was --- frequenza: 72 
+
+
+had --- frequenza: 42 
+
+
+have --- frequenza: 31 
+
+
+replied --- frequenza: 29 
+
+
+be --- frequenza: 23 
+
+
+'s --- frequenza: 22 
+
+
+were --- frequenza: 20 
+
+
+do --- frequenza: 18 
+
+
+been --- frequenza: 15 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Mr. Brownlow e':
+
+ Oliver --- frequenza: 4 
+
+
+ Rose --- frequenza: 2 
+
+
+ Monks --- frequenza: 2 
+
+
+ God --- frequenza: 1 
+
+
+ Bedwin --- frequenza: 1 
+
+
+ Fagin --- frequenza: 1 
+
+
+ London --- frequenza: 1 
+
+
+ 'and --- frequenza: 1 
+
+
+ Grimwig --- frequenza: 1 
+
+
+ Dodger --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Mr. Brownlow e':
+
+ Mr. --- frequenza: 144 
+
+
+ Mr. Brownlow --- frequenza: 129 
+
+
+ Oliver --- frequenza: 20 
+
+
+ Mr. Grimwig --- frequenza: 10 
+
+
+ Mr. Losberne --- frequenza: 3 
+
+
+ Bedwin --- frequenza: 2 
+
+
+ Monks --- frequenza: 2 
+
+
+ Miss --- frequenza: 2 
+
+
+ Master --- frequenza: 2 
+
+
+ Rose --- frequenza: 2 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Mr. Brownlow e':
+
+gentleman --- frequenza: 10 
+
+
+friend --- frequenza: 8 
+
+
+child --- frequenza: 6 
+
+
+room --- frequenza: 6 
+
+
+lady --- frequenza: 6 
+
+
+time --- frequenza: 6 
+
+
+Mrs. --- frequenza: 5 
+
+
+brother --- frequenza: 5 
+
+
+man --- frequenza: 5 
+
+
+hand --- frequenza: 5 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Mr. Brownlow e':
+
+said --- frequenza: 57 
+
+
+had --- frequenza: 36 
+
+
+was --- frequenza: 32 
+
+
+replied --- frequenza: 17 
+
+
+have --- frequenza: 17 
+
+
+is --- frequenza: 14 
+
+
+been --- frequenza: 13 
+
+
+be --- frequenza: 13 
+
+
+were --- frequenza: 10 
+
+
+are --- frequenza: 8 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Rose e':
+
+ Rose --- frequenza: 11 
+
+
+ Oliver --- frequenza: 2 
+
+
+ England --- frequenza: 1 
+
+
+ London --- frequenza: 1 
+
+
+ Strand --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Rose e':
+
+ Rose --- frequenza: 119 
+
+
+ Mr. --- frequenza: 10 
+
+
+ Oliver --- frequenza: 9 
+
+
+ Mr. Brownlow --- frequenza: 7 
+
+
+ Harry --- frequenza: 6 
+
+
+ Rose Maylie --- frequenza: 5 
+
+
+ Miss Rose --- frequenza: 5 
+
+
+ Miss --- frequenza: 5 
+
+
+ Harry Maylie --- frequenza: 2 
+
+
+ Mr. Losberne --- frequenza: 2 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Rose e':
+
+Mrs. --- frequenza: 9 
+
+
+Maylie --- frequenza: 8 
+
+
+lady --- frequenza: 6 
+
+
+doctor --- frequenza: 5 
+
+
+tears --- frequenza: 4 
+
+
+name --- frequenza: 4 
+
+
+truth --- frequenza: 4 
+
+
+dear --- frequenza: 4 
+
+
+girl --- frequenza: 4 
+
+
+'You --- frequenza: 4 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Rose e':
+
+said --- frequenza: 41 
+
+
+was --- frequenza: 26 
+
+
+have --- frequenza: 25 
+
+
+had --- frequenza: 20 
+
+
+be --- frequenza: 19 
+
+
+were --- frequenza: 16 
+
+
+is --- frequenza: 15 
+
+
+replied --- frequenza: 14 
+
+
+do --- frequenza: 8 
+
+
+see --- frequenza: 8 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Noah e':
+
+ Noah --- frequenza: 4 
+
+
+ London --- frequenza: 2 
+
+
+ Fagin --- frequenza: 1 
+
+
+ Crown --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Noah e':
+
+ Noah --- frequenza: 99 
+
+
+ Oliver --- frequenza: 15 
+
+
+ Charlotte --- frequenza: 11 
+
+
+ Mr. --- frequenza: 9 
+
+
+ Noah Claypole --- frequenza: 9 
+
+
+ Mr. Bumble --- frequenza: 5 
+
+
+ Fagin --- frequenza: 5 
+
+
+ Oliver Twist --- frequenza: 4 
+
+
+ Sikes --- frequenza: 2 
+
+
+ Mr. Noah Claypole --- frequenza: 2 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Noah e':
+
+yer --- frequenza: 8 
+
+
+head --- frequenza: 6 
+
+
+gentleman --- frequenza: 5 
+
+
+nose --- frequenza: 4 
+
+
+side --- frequenza: 4 
+
+
+dear --- frequenza: 4 
+
+
+way --- frequenza: 4 
+
+
+legs --- frequenza: 4 
+
+
+Work'us --- frequenza: 4 
+
+
+time --- frequenza: 4 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Noah e':
+
+said --- frequenza: 32 
+
+
+was --- frequenza: 27 
+
+
+had --- frequenza: 21 
+
+
+replied --- frequenza: 14 
+
+
+asked --- frequenza: 10 
+
+
+be --- frequenza: 9 
+
+
+been --- frequenza: 9 
+
+
+do --- frequenza: 6 
+
+
+have --- frequenza: 6 
+
+
+see --- frequenza: 5 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Nancy e':
+
+ Nancy --- frequenza: 5 
+
+
+ Oliver --- frequenza: 2 
+
+
+ Rose --- frequenza: 1 
+
+
+ Fagin --- frequenza: 1 
+
+
+ London --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Nancy e':
+
+ Nancy --- frequenza: 74 
+
+
+ Mr. --- frequenza: 15 
+
+
+ Mr. Sikes --- frequenza: 9 
+
+
+ Fagin --- frequenza: 8 
+
+
+ Miss Nancy --- frequenza: 6 
+
+
+ Miss --- frequenza: 6 
+
+
+ Bill --- frequenza: 5 
+
+
+ Oliver --- frequenza: 5 
+
+
+ Mr. Chitling --- frequenza: 2 
+
+
+ Rose --- frequenza: 2 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Nancy e':
+
+time --- frequenza: 8 
+
+
+Jew --- frequenza: 6 
+
+
+words --- frequenza: 5 
+
+
+room --- frequenza: 5 
+
+
+use --- frequenza: 4 
+
+
+way --- frequenza: 4 
+
+
+friend --- frequenza: 4 
+
+
+hand --- frequenza: 4 
+
+
+Nancy --- frequenza: 4 
+
+
+head --- frequenza: 3 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Nancy e':
+
+had --- frequenza: 23 
+
+
+said --- frequenza: 17 
+
+
+was --- frequenza: 17 
+
+
+is --- frequenza: 12 
+
+
+do --- frequenza: 11 
+
+
+being --- frequenza: 9 
+
+
+be --- frequenza: 9 
+
+
+replied --- frequenza: 8 
+
+
+'s --- frequenza: 7 
+
+
+been --- frequenza: 5 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Monks e':
+
+ Monks --- frequenza: 5 
+
+
+ Oliver --- frequenza: 1 
+
+
+ French --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Monks e':
+
+ Monks --- frequenza: 81 
+
+
+ Mr. --- frequenza: 10 
+
+
+ Fagin --- frequenza: 4 
+
+
+ Mr. Bumble --- frequenza: 3 
+
+
+ Mr. Monks --- frequenza: 3 
+
+
+ Mr. Brownlow --- frequenza: 3 
+
+
+ Oliver --- frequenza: 1 
+
+
+ Rose --- frequenza: 1 
+
+
+ Sikes --- frequenza: 1 
+
+
+ Mr. Losberne --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Monks e':
+
+Monks --- frequenza: 22 
+
+
+man --- frequenza: 9 
+
+
+eyes --- frequenza: 7 
+
+
+girl --- frequenza: 5 
+
+
+gentleman --- frequenza: 5 
+
+
+nothing --- frequenza: 5 
+
+
+hands --- frequenza: 4 
+
+
+woman --- frequenza: 4 
+
+
+room --- frequenza: 4 
+
+
+lantern --- frequenza: 4 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Monks e':
+
+said --- frequenza: 33 
+
+
+had --- frequenza: 22 
+
+
+was --- frequenza: 22 
+
+
+have --- frequenza: 20 
+
+
+is --- frequenza: 11 
+
+
+replied --- frequenza: 10 
+
+
+be --- frequenza: 10 
+
+
+asked --- frequenza: 10 
+
+
+know --- frequenza: 9 
+
+
+been --- frequenza: 9 
+
+
+
+
+ A Christmas Carol 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Scrooge e':
+
+ Scrooge --- frequenza: 19 
+
+
+ Spirit --- frequenza: 5 
+
+
+ Fred --- frequenza: 2 
+
+
+ Exchange --- frequenza: 1 
+
+
+ Gothic --- frequenza: 1 
+
+
+ How --- frequenza: 1 
+
+
+ London --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Scrooge e':
+
+ Scrooge --- frequenza: 210 
+
+
+ Mr. --- frequenza: 9 
+
+
+ Mr. Scrooge --- frequenza: 8 
+
+
+ Marley --- frequenza: 6 
+
+
+ Christmas --- frequenza: 5 
+
+
+ Bob --- frequenza: 4 
+
+
+ Uncle Scrooge --- frequenza: 3 
+
+
+ Uncle --- frequenza: 3 
+
+
+ Spirit --- frequenza: 2 
+
+
+ Master Scrooge --- frequenza: 2 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Scrooge e':
+
+nephew --- frequenza: 20 
+
+
+time --- frequenza: 12 
+
+
+door --- frequenza: 9 
+
+
+man --- frequenza: 9 
+
+
+room --- frequenza: 8 
+
+
+hands --- frequenza: 8 
+
+
+niece --- frequenza: 8 
+
+
+voice --- frequenza: 8 
+
+
+clerk --- frequenza: 7 
+
+
+hand --- frequenza: 7 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Scrooge e':
+
+said --- frequenza: 95 
+
+
+was --- frequenza: 66 
+
+
+had --- frequenza: 44 
+
+
+were --- frequenza: 23 
+
+
+is --- frequenza: 20 
+
+
+have --- frequenza: 19 
+
+
+be --- frequenza: 17 
+
+
+been --- frequenza: 13 
+
+
+do --- frequenza: 11 
+
+
+cried --- frequenza: 11 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Bob e':
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Bob e':
+
+ Bob --- frequenza: 34 
+
+
+ Bob Cratchit --- frequenza: 8 
+
+
+ Tiny Tim --- frequenza: 3 
+
+
+ Tiny --- frequenza: 3 
+
+
+ Martha --- frequenza: 2 
+
+
+ Scrooge --- frequenza: 2 
+
+
+ Christmas --- frequenza: 2 
+
+
+ Poor --- frequenza: 1 
+
+
+ Cratchit --- frequenza: 1 
+
+
+ Joe Miller --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Bob e':
+
+dear --- frequenza: 5 
+
+
+family --- frequenza: 3 
+
+
+Christmas --- frequenza: 3 
+
+
+children --- frequenza: 2 
+
+
+Mrs. --- frequenza: 2 
+
+
+year --- frequenza: 2 
+
+
+dears --- frequenza: 2 
+
+
+Bob --- frequenza: 2 
+
+
+comforter --- frequenza: 2 
+
+
+way --- frequenza: 2 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Bob e':
+
+said --- frequenza: 9 
+
+
+had --- frequenza: 8 
+
+
+was --- frequenza: 7 
+
+
+be --- frequenza: 5 
+
+
+cried --- frequenza: 4 
+
+
+am --- frequenza: 3 
+
+
+'s --- frequenza: 3 
+
+
+came --- frequenza: 3 
+
+
+returned --- frequenza: 2 
+
+
+know --- frequenza: 2 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Christmas e':
+
+ Christian --- frequenza: 1 
+
+
+ Spirit --- frequenza: 1 
+
+
+ Cornhill --- frequenza: 1 
+
+
+ Christmas --- frequenza: 1 
+
+
+ French --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Christmas e':
+
+ Christmas --- frequenza: 26 
+
+
+ Scrooge --- frequenza: 7 
+
+
+ Bob --- frequenza: 6 
+
+
+ Merry --- frequenza: 5 
+
+
+ Merry Christmas --- frequenza: 5 
+
+
+ Christmas Present --- frequenza: 5 
+
+
+ Christmas Yet --- frequenza: 2 
+
+
+ Christmas Eve --- frequenza: 2 
+
+
+ Mr. --- frequenza: 2 
+
+
+ Fezziwig --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Christmas e':
+
+Christmas --- frequenza: 22 
+
+
+time --- frequenza: 18 
+
+
+Day --- frequenza: 7 
+
+
+year --- frequenza: 7 
+
+
+merry --- frequenza: 7 
+
+
+people --- frequenza: 6 
+
+
+man --- frequenza: 5 
+
+
+night --- frequenza: 4 
+
+
+door --- frequenza: 4 
+
+
+streets --- frequenza: 3 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Christmas e':
+
+was --- frequenza: 23 
+
+
+be --- frequenza: 9 
+
+
+were --- frequenza: 9 
+
+
+had --- frequenza: 8 
+
+
+said --- frequenza: 8 
+
+
+keep --- frequenza: 7 
+
+
+am --- frequenza: 5 
+
+
+have --- frequenza: 5 
+
+
+did --- frequenza: 4 
+
+
+come --- frequenza: 4 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Marley e':
+
+ Sheba --- frequenza: 1 
+
+
+ Belshazzars --- frequenza: 1 
+
+
+ Abels --- frequenza: 1 
+
+
+ Scrooge --- frequenza: 1 
+
+
+ Marley --- frequenza: 1 
+
+
+ Queens --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Marley e':
+
+ Marley --- frequenza: 16 
+
+
+ Scrooge --- frequenza: 10 
+
+
+ Jacob Marley --- frequenza: 6 
+
+
+ Jacob --- frequenza: 6 
+
+
+ Cains --- frequenza: 1 
+
+
+ Old --- frequenza: 1 
+
+
+ Scrooge Scrooge --- frequenza: 1 
+
+
+ Prophet --- frequenza: 1 
+
+
+ Old Marley --- frequenza: 1 
+
+
+ Phantom --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Marley e':
+
+years --- frequenza: 4 
+
+
+door --- frequenza: 4 
+
+
+Stave --- frequenza: 2 
+
+
+mention --- frequenza: 2 
+
+
+knocker --- frequenza: 2 
+
+
+partner --- frequenza: 2 
+
+
+thoughts --- frequenza: 2 
+
+
+face --- frequenza: 2 
+
+
+time --- frequenza: 2 
+
+
+eyes --- frequenza: 1 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Marley e':
+
+had --- frequenza: 9 
+
+
+was --- frequenza: 7 
+
+
+been --- frequenza: 4 
+
+
+said --- frequenza: 3 
+
+
+be --- frequenza: 3 
+
+
+coming --- frequenza: 3 
+
+
+were --- frequenza: 3 
+
+
+gone --- frequenza: 2 
+
+
+beheld --- frequenza: 2 
+
+
+known --- frequenza: 2 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Tiny e':
+
+ Spirit --- frequenza: 1 
+
+
+ Us --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Tiny e':
+
+ Tiny Tim --- frequenza: 20 
+
+
+ Tiny --- frequenza: 20 
+
+
+ Bob --- frequenza: 5 
+
+
+ Martha --- frequenza: 3 
+
+
+ Scrooge --- frequenza: 2 
+
+
+ Master --- frequenza: 2 
+
+
+ Master Peter --- frequenza: 2 
+
+
+ Miss --- frequenza: 1 
+
+
+ God --- frequenza: 1 
+
+
+ Alas --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Tiny e':
+
+round --- frequenza: 4 
+
+
+Cratchits --- frequenza: 4 
+
+
+voice --- frequenza: 3 
+
+
+father --- frequenza: 2 
+
+
+Mrs. --- frequenza: 2 
+
+
+shoulder --- frequenza: 2 
+
+
+brother --- frequenza: 2 
+
+
+goose --- frequenza: 2 
+
+
+table --- frequenza: 2 
+
+
+jug --- frequenza: 2 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Tiny e':
+
+was --- frequenza: 10 
+
+
+said --- frequenza: 5 
+
+
+had --- frequenza: 5 
+
+
+did --- frequenza: 4 
+
+
+came --- frequenza: 4 
+
+
+were --- frequenza: 3 
+
+
+walk --- frequenza: 2 
+
+
+have --- frequenza: 2 
+
+
+bore --- frequenza: 2 
+
+
+forget --- frequenza: 2 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Tiny Tim e':
+
+ Spirit --- frequenza: 1 
+
+
+ Us --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Tiny Tim e':
+
+ Tiny Tim --- frequenza: 20 
+
+
+ Tiny --- frequenza: 20 
+
+
+ Bob --- frequenza: 5 
+
+
+ Martha --- frequenza: 3 
+
+
+ Scrooge --- frequenza: 2 
+
+
+ Master --- frequenza: 2 
+
+
+ Master Peter --- frequenza: 2 
+
+
+ Miss --- frequenza: 1 
+
+
+ God --- frequenza: 1 
+
+
+ Alas --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Tiny Tim e':
+
+round --- frequenza: 4 
+
+
+Cratchits --- frequenza: 4 
+
+
+voice --- frequenza: 3 
+
+
+father --- frequenza: 2 
+
+
+Mrs. --- frequenza: 2 
+
+
+shoulder --- frequenza: 2 
+
+
+brother --- frequenza: 2 
+
+
+goose --- frequenza: 2 
+
+
+table --- frequenza: 2 
+
+
+jug --- frequenza: 2 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Tiny Tim e':
+
+was --- frequenza: 10 
+
+
+said --- frequenza: 5 
+
+
+had --- frequenza: 5 
+
+
+did --- frequenza: 4 
+
+
+came --- frequenza: 4 
+
+
+were --- frequenza: 3 
+
+
+walk --- frequenza: 2 
+
+
+have --- frequenza: 2 
+
+
+bore --- frequenza: 2 
+
+
+forget --- frequenza: 2 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Joe e':
+
+ Look --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Joe e':
+
+ Joe --- frequenza: 15 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Joe e':
+
+woman --- frequenza: 3 
+
+
+bundle --- frequenza: 2 
+
+
+wall --- frequenza: 1 
+
+
+money --- frequenza: 1 
+
+
+mine --- frequenza: 1 
+
+
+sixpence --- frequenza: 1 
+
+
+ground --- frequenza: 1 
+
+
+sake --- frequenza: 1 
+
+
+way --- frequenza: 1 
+
+
+man --- frequenza: 1 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Joe e':
+
+said --- frequenza: 8 
+
+
+was --- frequenza: 4 
+
+
+'s --- frequenza: 4 
+
+
+give --- frequenza: 2 
+
+
+asked --- frequenza: 2 
+
+
+were --- frequenza: 2 
+
+
+doing --- frequenza: 1 
+
+
+chalked --- frequenza: 1 
+
+
+born --- frequenza: 1 
+
+
+examined --- frequenza: 1 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Jacob e':
+
+ Jacob --- frequenza: 2 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Jacob e':
+
+ Jacob --- frequenza: 10 
+
+
+ Jacob Marley --- frequenza: 7 
+
+
+ Ghost --- frequenza: 1 
+
+
+ Phantom --- frequenza: 1 
+
+
+ Past --- frequenza: 1 
+
+
+ Scrooge --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Jacob e':
+
+partner --- frequenza: 2 
+
+
+knees --- frequenza: 2 
+
+
+life --- frequenza: 2 
+
+
+bearing --- frequenza: 1 
+
+
+humility --- frequenza: 1 
+
+
+mind --- frequenza: 1 
+
+
+prediction --- frequenza: 1 
+
+
+years --- frequenza: 1 
+
+
+strain --- frequenza: 1 
+
+
+stroke --- frequenza: 1 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Jacob e':
+
+have --- frequenza: 4 
+
+
+was --- frequenza: 4 
+
+
+be --- frequenza: 2 
+
+
+vibrate --- frequenza: 1 
+
+
+consciousness --- frequenza: 1 
+
+
+coming --- frequenza: 1 
+
+
+observed --- frequenza: 1 
+
+
+ceased --- frequenza: 1 
+
+
+say --- frequenza: 1 
+
+
+buried --- frequenza: 1 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Peter e':
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Peter e':
+
+ Peter --- frequenza: 12 
+
+
+ Master --- frequenza: 5 
+
+
+ Master Peter --- frequenza: 5 
+
+
+ Bob --- frequenza: 4 
+
+
+ Cratchit --- frequenza: 3 
+
+
+ Tiny Tim --- frequenza: 2 
+
+
+ Master Peter Cratchit --- frequenza: 2 
+
+
+ Tiny --- frequenza: 2 
+
+
+ Miss Belinda --- frequenza: 1 
+
+
+ Miss --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Peter e':
+
+Cratchits --- frequenza: 7 
+
+
+Mrs. --- frequenza: 4 
+
+
+goose --- frequenza: 3 
+
+
+fire --- frequenza: 3 
+
+
+collars --- frequenza: 3 
+
+
+potatoes --- frequenza: 3 
+
+
+corner --- frequenza: 2 
+
+
+table --- frequenza: 2 
+
+
+book --- frequenza: 2 
+
+
+saucepan --- frequenza: 2 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Peter e':
+
+were --- frequenza: 7 
+
+
+had --- frequenza: 5 
+
+
+came --- frequenza: 4 
+
+
+have --- frequenza: 3 
+
+
+kissed --- frequenza: 3 
+
+
+being --- frequenza: 3 
+
+
+was --- frequenza: 3 
+
+
+be --- frequenza: 3 
+
+
+brave --- frequenza: 2 
+
+
+seen --- frequenza: 2 
+
+
+
+ La lista dei 10 luoghi piu' frequenti associati al nome  Mr. e':
+
+ Exchange --- frequenza: 1 
+
+
+
+ La lista delle 10 persone piu' frequenti associate al nome  Mr. e':
+
+ Mr. --- frequenza: 9 
+
+
+ Mr. Scrooge --- frequenza: 7 
+
+
+ Bob --- frequenza: 3 
+
+
+ Mr. Ebenezer Scrooge --- frequenza: 1 
+
+
+ Mr. Cratchit --- frequenza: 1 
+
+
+ Mr. Ebenezer --- frequenza: 1 
+
+
+ Christmas --- frequenza: 1 
+
+
+
+ La lista dei 10 sostantivi piu' frequenti associati al nome  Mr. e':
+
+days --- frequenza: 2 
+
+
+street --- frequenza: 1 
+
+
+sight --- frequenza: 1 
+
+
+year --- frequenza: 1 
+
+
+nephew --- frequenza: 1 
+
+
+destitute --- frequenza: 1 
+
+
+tendency --- frequenza: 1 
+
+
+pay --- frequenza: 1 
+
+
+gentleman --- frequenza: 1 
+
+
+negative --- frequenza: 1 
+
+
+
+ La lista dei 10 verbi piu' frequenti associati al nome  Mr. e':
+
+said --- frequenza: 5 
+
+
+had --- frequenza: 4 
+
+
+have --- frequenza: 3 
+
+
+am --- frequenza: 2 
+
+
+was --- frequenza: 2 
+
+
+seeing --- frequenza: 1 
+
+
+addressing --- frequenza: 1 
+
+
+distress --- frequenza: 1 
+
+
+give --- frequenza: 1 
+
+
+is --- frequenza: 1 
+
+
+
+
+ Oliver Twist
+
+
+La frase con il nome  Mr. con probabilita' massima calcolata con un modello di Markov 0 e': (u"'Oh, Mr. Bumble, sir!'", 5.2998175968119986e-18) 
+
+
+ Le date trovate nelle le frasi associate a  Mr. sono: []
+
+ I mesi trovati nelle le frasi associate a  Mr. sono: []
+
+ I giorni trovati nelle frasi associate a  Mr. sono: []
+
+La frase con il nome  Oliver con probabilita' massima calcolata con un modello di Markov 0 e': (u"'Yes, sir,' said Oliver.", 6.553670126724705e-17) 
+
+
+ Le date trovate nelle le frasi associate a  Oliver sono: []
+
+ I mesi trovati nelle le frasi associate a  Oliver sono: []
+
+ I giorni trovati nelle frasi associate a  Oliver sono: []
+
+La frase con il nome  Mr. Bumble con probabilita' massima calcolata con un modello di Markov 0 e': (u"'Oh, Mr. Bumble, sir!'", 5.2998175968119986e-18) 
+
+
+ Le date trovate nelle le frasi associate a  Mr. Bumble sono: []
+
+ I mesi trovati nelle le frasi associate a  Mr. Bumble sono: []
+
+ I giorni trovati nelle frasi associate a  Mr. Bumble sono: []
+
+La frase con il nome  Fagin con probabilita' massima calcolata con un modello di Markov 0 e': (u'Oh, Fagin,\nlook at him!', 3.052346516404014e-19) 
+
+
+ Le date trovate nelle le frasi associate a  Fagin sono: []
+
+ I mesi trovati nelle le frasi associate a  Fagin sono: []
+
+ I giorni trovati nelle frasi associate a  Fagin sono: []
+
+La frase con il nome  Sikes con probabilita' massima calcolata con un modello di Markov 0 e': (u"'Let me out,' said Sikes.", 5.44202195360926e-19) 
+
+
+ Le date trovate nelle le frasi associate a  Sikes sono: []
+
+ I mesi trovati nelle le frasi associate a  Sikes sono: []
+
+ I giorni trovati nelle frasi associate a  Sikes sono: []
+
+La frase con il nome  Mr. Brownlow con probabilita' massima calcolata con un modello di Markov 0 e': (u'said Mr. Brownlow, turning to Monks.', 3.4945321248953636e-19) 
+
+
+ Le date trovate nelle le frasi associate a  Mr. Brownlow sono: []
+
+ I mesi trovati nelle le frasi associate a  Mr. Brownlow sono: []
+
+ I giorni trovati nelle frasi associate a  Mr. Brownlow sono: []
+
+La frase con il nome  Rose con probabilita' massima calcolata con un modello di Markov 0 e': (u"'I could,' said Rose.", 1.1744824636591587e-16) 
+
+
+ Le date trovate nelle le frasi associate a  Rose sono: []
+
+ I mesi trovati nelle le frasi associate a  Rose sono: []
+
+ I giorni trovati nelle frasi associate a  Rose sono: []
+
+La frase con il nome  Noah con probabilita' massima calcolata con un modello di Markov 0 e': (u"'I see,' said Noah.", 6.593177220042493e-17) 
+
+
+ Le date trovate nelle le frasi associate a  Noah sono: []
+
+ I mesi trovati nelle le frasi associate a  Noah sono: []
+
+ I giorni trovati nelle frasi associate a  Noah sono: []
+
+La frase con il nome  Nancy con probabilita' massima calcolata con un modello di Markov 0 e': (u"'That's right,' rejoined Nancy.", 1.5444559008304318e-20) 
+
+
+ Le date trovate nelle le frasi associate a  Nancy sono: []
+
+ I mesi trovati nelle le frasi associate a  Nancy sono: []
+
+ I giorni trovati nelle frasi associate a  Nancy sono: []
+
+La frase con il nome  Monks con probabilita' massima calcolata con un modello di Markov 0 e': (u"'No, no,' interposed Monks.", 7.236138060599478e-19) 
+
+
+ Le date trovate nelle le frasi associate a  Monks sono: []
+
+ I mesi trovati nelle le frasi associate a  Monks sono: []
+
+ I giorni trovati nelle frasi associate a  Monks sono: []
+
+
+ A Christmas Carol
+
+
+La frase con il nome  Scrooge con probabilita' massima calcolata con un modello di Markov 0 e': (u'"I do," said Scrooge.', 1.7610022211356095e-15) 
+
+
+ Le date trovate nelle le frasi associate a  Scrooge sono: []
+
+ I mesi trovati nelle le frasi associate a  Scrooge sono: []
+
+ I giorni trovati nelle frasi associate a  Scrooge sono: []
+
+La frase con il nome  Bob con probabilita' massima calcolata con un modello di Markov 0 e': (u'"A merry Christmas, Bob!"', 8.18885929289192e-19) 
+
+
+ Le date trovate nelle le frasi associate a  Bob sono: []
+
+ I mesi trovati nelle le frasi associate a  Bob sono: []
+
+ I giorni trovati nelle frasi associate a  Bob sono: []
+
+La frase con il nome  Christmas con probabilita' massima calcolata con un modello di Markov 0 e': (u'"A merry Christmas, Bob!"', 8.18885929289192e-19) 
+
+
+ Le date trovate nelle le frasi associate a  Christmas sono: []
+
+ I mesi trovati nelle le frasi associate a  Christmas sono: []
+
+ I giorni trovati nelle frasi associate a  Christmas sono: []
+
+La frase con il nome  Marley con probabilita' massima calcolata con un modello di Markov 0 e': (u'The firm was known as\r\nScrooge and Marley.', 4.596713504282269e-23) 
+
+
+ Le date trovate nelle le frasi associate a  Marley sono: []
+
+ I mesi trovati nelle le frasi associate a  Marley sono: []
+
+ I giorni trovati nelle frasi associate a  Marley sono: []
+
+La frase con il nome  Tiny con probabilita' massima calcolata con un modello di Markov 0 e': (u'said Tiny Tim, the last of all.', 1.752766159507819e-20) 
+
+
+ Le date trovate nelle le frasi associate a  Tiny sono: []
+
+ I mesi trovati nelle le frasi associate a  Tiny sono: []
+
+ I giorni trovati nelle frasi associate a  Tiny sono: []
+
+La frase con il nome  Tiny Tim con probabilita' massima calcolata con un modello di Markov 0 e': (u'said Tiny Tim, the last of all.', 1.752766159507819e-20) 
+
+
+ Le date trovate nelle le frasi associate a  Tiny Tim sono: []
+
+ I mesi trovati nelle le frasi associate a  Tiny Tim sono: []
+
+ I giorni trovati nelle frasi associate a  Tiny Tim sono: []
+
+La frase con il nome  Joe con probabilita' massima calcolata con un modello di Markov 0 e': (u"Look\r\nhere, old Joe, here's a chance!", 1.5239511236923638e-28) 
+
+
+ Le date trovate nelle le frasi associate a  Joe sono: []
+
+ I mesi trovati nelle le frasi associate a  Joe sono: []
+
+ I giorni trovati nelle frasi associate a  Joe sono: []
+
+La frase con il nome  Jacob con probabilita' massima calcolata con un modello di Markov 0 e': (u'Speak comfort to me, Jacob!"', 2.0950693589845325e-21) 
+
+
+ Le date trovate nelle le frasi associate a  Jacob sono: []
+
+ I mesi trovati nelle le frasi associate a  Jacob sono: []
+
+ I giorni trovati nelle frasi associate a  Jacob sono: []
+
+La frase con il nome  Peter con probabilita' massima calcolata con un modello di Markov 0 e': (u'"And so have I," cried Peter.', 1.780218314569608e-22) 
+
+
+ Le date trovate nelle le frasi associate a  Peter sono: []
+
+ I mesi trovati nelle le frasi associate a  Peter sono: []
+
+ I giorni trovati nelle frasi associate a  Peter sono: []
+
+La frase con il nome  Mr. con probabilita' massima calcolata con un modello di Markov 0 e': (u'"My dear Mr. Scrooge, are you serious?"', 4.832350846058806e-29) 
+
+
+ Le date trovate nelle le frasi associate a  Mr. sono: []
+
+ I mesi trovati nelle le frasi associate a  Mr. sono: []
+
+ I giorni trovati nelle frasi associate a  Mr. sono: []
